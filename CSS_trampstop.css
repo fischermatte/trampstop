@@ -1,0 +1,84 @@
+.textFormular {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #0066CC; font-weight: bold}
+.formular {  clip:    rect(   ); margin-top: 0px; margin-left: 0px; margin-right: 0px; margin-bottom: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-style: none; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.felder {  clip:  rect(   ); text-decoration: none; width: 150px; font-size: 11px; font-family: Arial, Helvetica, sans-serif}
+.checkbuttons {
+	color: #DADADA;
+	background-color: #FFFFFF;
+}
+.hauptlinks {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #595959; text-decoration: none}
+.hauptlinksAktiv { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #000000; text-decoration: none }
+.AndereLinks {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000066; text-decoration: none; font-weight: normal}
+.AndereLinks2 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF0000; text-decoration: none; font-weight: bold; clip:  rect(   )}
+.AndereLinks3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+}
+.rahmenGruen {  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; width: 100px; height: 16px; font-size: 10px; color: #000000; top: 2px; clip:  rect(   )}
+.AndereLinks4 { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; text-decoration: none; clip: rect( ) ; font-weight: bold}
+.felderCopy { clip: rect( ); text-decoration: none; width: 250px; font-size: 11px; font-family: Arial, Helvetica, sans-serif }
+.AndereLinks5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	clip: rect( );
+	font-weight: bold;
+}
+.AndereLinks6 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #7171FF; text-decoration: none; clip: rect( ) ; font-weight: bold}
+.AndereLinksSuche { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; color: #006600; text-decoration: none; clip: rect( ) ; font-weight: normal}
+.AndereLinksCopyright { font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; text-decoration: none; font-weight: bold}
+.AndereLinksCopyrightHome { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #999999; text-decoration: none; font-weight: normal}
+.Fehleranzeige {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #333333; font-weight: bold}
+.button {  height: 18px; font-size: 9px; width: 20px; color: #006600}
+.HeaderText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+
+
+
+
+
+}
+.MainTD {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #666666;
+
+
+
+}
+.NormalText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+
+
+}
+.Error {
+	font-size: 9.5pt;
+	color: red;
+	
+}
+.HGFarbeFFDF7D {
+	background-color: #ffdf7d;
+
+}
+.TextResult {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+.TextHelp {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}

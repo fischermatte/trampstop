@@ -1,3 +1,3 @@
 # Trampstop (legacy)
 
-Hitchhikers website from the late 90s. Written in PHP.
+Hitchhikers website from the early 2000s. Written in PHP.
